@@ -239,7 +239,7 @@
 <body>
     <header>
         <div class="logo"><i class="fas fa-tv"></i></div>
-        <div class="site-name">Free IPTV</div>
+        <div class="site-name">Cracker IPTV</div>
         <div class="icon" onclick="toggleSettings()">
             <i class="fas fa-cog"></i>
         </div>
